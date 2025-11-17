@@ -1,1 +1,3 @@
-# GS_Pensamento_Computacional_e_Automa-o_com_Python
+# GS_Pensamento_Computacional_e_Automaçâo_com_Python
+Esse projeto utiliza programação orientada a objetos para auxiliar usuários a tanto escolher possíveis carreiras como analisar seus pontos fortes e fracos, sabendo em quais habilidades deveria focar em melhorar.
+Quando executado o sistema fará um questionário onde o usuário deve informar seu nome, como se avalia em uma série de competências e suas áreas de interesse, para depois informá-lo de suas opções. Basicamente o código carrega as carreiras pré-definidas em example_data(), pede ao usuário que preencha seu perfil via CLI (as notas são atribuídas ao objeto Profile). o sistema compara o perfil com cada carreira, calcula pontuações ponderadas e ordena e retorna as melhores opções ao usuário, então é recomendado áreas prioritárias para melhorar e é gerada uma trilha de aprendizado.
